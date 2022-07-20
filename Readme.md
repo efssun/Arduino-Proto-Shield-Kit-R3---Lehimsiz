@@ -1,6 +1,5 @@
 # Arduino Proto Shield Kit R3 #
-
-Arduino Proto Shield Kit R3 ile özel devre tasarımlarınızı lehim yapmadan kolaylıkla tasarlayabiliriz.
+Arduino Proto Shield Kit R3, özel devre tasarımlarını lehim yapmadan kolaylıkla tasarlamayı sağlar.
 
 Arduino Proto Shield Şeması:
 
